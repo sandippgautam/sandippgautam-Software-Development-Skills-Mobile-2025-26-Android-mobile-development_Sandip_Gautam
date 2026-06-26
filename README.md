@@ -295,16 +295,9 @@ This project was created as part of a mobile development course assignment at LU
 - **Jetpack Compose** - Modern Android UI toolkit
 - **Apple** - Design inspiration
 
-## 📞 Support
 
-If you encounter any issues or have questions:
-1. Check the [Issues](https://github.com/sandipgautam/devportfolio-hub/issues) page
-2. Create a new issue with detailed description
-3. Contact: sandip.gautam@example.com
-
----
 
 <p align="center">
-  Made with ❤️ by Sandip Gautam<br/>
+  Made by Sandip Gautam<br/>
   DevPortfolio Hub © 2026
 </p>
