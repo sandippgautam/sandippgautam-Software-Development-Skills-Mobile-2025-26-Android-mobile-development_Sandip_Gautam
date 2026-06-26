@@ -76,67 +76,8 @@ Testing on a real device actually provides **several advantages** over emulator 
 
 ---
 
-## 📝 Video Content Overview
 
-The video demonstration covers the following aspects of the DevPortfolio Hub application:
-
-### 1. App Launch & Home Screen (0:00 - 1:00)
-- Initial app launch
-- Home screen overview with profile section
-- Quick stats cards (Projects, Notes, Hours, Skills)
-- Navigation cards with descriptions
-- Bottom navigation bar introduction
-
-### 2. Projects Showcase (1:00 - 1:45)
-- Navigate to Projects screen
-- Scroll through project cards
-- Demonstrate project information display
-- Show tech stack badges
-- Display GitHub links
-
-### 3. Smart Notes Feature (1:45 - 3:30)
-- Navigate to Notes screen
-- Demonstrate search functionality
-- Create a new note
-  - Enter title
-  - Select category (Work/Study/Ideas/Code)
-  - Add content
-  - Save note
-- Show note list with color-coded categories
-- Delete a note with confirmation dialog
-- Search for specific notes
-
-### 4. Time Tracker Feature (3:30 - 4:30)
-- Navigate to Time Tracker screen
-- Select activity from dropdown
-- Start timer
-- Show live timer counting
-- Stop timer
-- View session history
-- Display statistics (Total time, Sessions count)
-
-### 5. About Me Screen (4:30 - 5:00)
-- Navigate to About screen
-- Show profile information
-- Display skills section with badges
-- Show education details
-- Display contact information
-
-### 6. Settings Screen (5:00 - 5:30)
-- Navigate to Settings
-- Toggle notification settings
-- Show app version information
-- Demonstrate data management options
-
-### 7. Navigation Flow (5:30 - 6:00)
-- Demonstrate smooth navigation between screens
-- Show bottom navigation functionality
-- Highlight back button behavior
-- Show app's overall polish and UX
-
----
-
-## ✅ Course Requirements Compliance
+## Course Requirements Compliance
 
 ### Requirement 1: Functionality with Components ✓
 
@@ -193,7 +134,7 @@ The application uses **LazyColumn** (Compose equivalent of ListView/RecyclerView
 
 ---
 
-## 🎨 Additional Features (Beyond Requirements)
+## Additional Features (Beyond Requirements)
 
 ### Modern Android Architecture
 - **MVVM Pattern:** Clean separation of UI and business logic
@@ -246,7 +187,7 @@ The application uses **LazyColumn** (Compose equivalent of ListView/RecyclerView
 
 ---
 
-## 📊 Development Statistics
+## Development Statistics
 
 **Development Time:** 2 weeks (80+ hours)  
 **Total Files Created:** 20+ Kotlin files  
@@ -311,7 +252,7 @@ Through this project, I have successfully learned and applied:
 
 ---
 
-## 🚀 Installation & Running Instructions
+##  Installation & Running Instructions
 
 ### Prerequisites
 - Android Studio (latest version)
