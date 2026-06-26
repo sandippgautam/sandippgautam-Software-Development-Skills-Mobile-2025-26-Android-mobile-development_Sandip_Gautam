@@ -236,8 +236,7 @@ Edit `AboutScreen.kt`:
 // Line 70-80: Update profile information
 Text(text = "Sandip Gautam")
 Text(text = "Android Developer • Tech Enthusiast")
-Text(text = "your.email@example.com")
-Text(text = "github.com/yourusername")
+
 ```
 
 #### Modify Sample Projects
