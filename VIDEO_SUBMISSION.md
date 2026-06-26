@@ -25,9 +25,8 @@ https://github.com/sandippgautam/sandippgautam-Software-Development-Skills-Mobil
 
 ### Video Demonstration
 **Video Demo URL:**  
-[PASTE YOUR VIDEO LINK HERE - YouTube/Loom/Drive/OneDrive]
+(https://youtube.com/shorts/Bzd5NbbOPLI?is=c2qlTjzq6YCu3-Bt)
 
-**Video Duration:** [INSERT DURATION - e.g., 5 minutes]
 
 ---
 
